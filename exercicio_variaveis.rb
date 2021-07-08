@@ -1,10 +1,24 @@
 puts "quantas horas há em um ano?"
-puts 365*24
+x = 365* 24
+puts x
+
 puts "quantos minutos há em uma década?"
-puts 1*5256000
+y = 100 * 365 * 24 * 60
+puts y
+
 puts "qual a sua idade em segundos?"
-puts (365*21*24*60*60)
+z =(365*21*24*60*60)
+puts z
+
 puts "quantos chocolates você pretende comer na vida?"
-puts 50*50
+a = 50*50
+puts a
+
 puts "Se minha idade é de 1232 milhões de segundos, qual é minha idade em anos?"
-puts (365*1232*24*60*60)
+b (365*1232*24*60*60)
+puts b
+
+
+
+
+
