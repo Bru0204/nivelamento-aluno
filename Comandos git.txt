@@ -1,0 +1,17 @@
+Passo 1 verificar status dos arquivos
+*git status
+
+Passo 2 adicionar os arquivos
+*git add .
+
+Passo 3 verificar se os arquivos estão adicionados
+*git status
+
+Passo 4 commitar os arquivos
+*git commit -m "mensagem"
+
+Passo 5 verificar se os arquivos foram commitados
+*git status
+
+Passo 6 subir os arquios para o repositorio
+*git push
