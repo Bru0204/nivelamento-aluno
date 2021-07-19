@@ -18,7 +18,7 @@ for x in (1..linhas)
         print "x"
     end
     print "*"
-    puts
+    puts 
 end
 
 for l in (-1..linhas)
