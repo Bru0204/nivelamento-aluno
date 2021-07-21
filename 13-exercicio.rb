@@ -22,6 +22,6 @@ end
 
 
 bichinhos = ['Haru', 'Han Solo', 'Mel', 'Luna', 'Manu', 'Kiara', 'Estrela', 'Paçoca']
-#posição       0       1            2      3        4      5       6           7        
+#posição       0       1           2      3        4       5         6           7        
 
 print remove_da_posicao(bichinhos, 7)
